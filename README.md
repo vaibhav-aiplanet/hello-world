@@ -8,7 +8,6 @@ Hello World
 
 - [ ] hello world
 - [x] world hello
-- [ ] ---
 
 ## Hello
 ### Hello
